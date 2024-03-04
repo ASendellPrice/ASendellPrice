@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome // Välkommen // Shwmae 👋
+
+I'm Ash, I have a DPhil (PhD from Oxford) in evolutionary biology / population genetics and have worked on genetic studies of a range of non-model species (🦜 + 🐟 + 🦈 + 🦟 + 🪸 + 🦠). 
 
 <!--
 **ASendellPrice/ASendellPrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
