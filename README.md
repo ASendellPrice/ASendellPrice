@@ -2,17 +2,9 @@
 
 I'm Ash, I have a DPhil (PhD from Oxford) in evolutionary biology / population genetics and have worked on genetic studies of a range of non-model species (🦜 + 🐟 + 🦈 + 🦟 + 🪸 + 🦠). After working as a postdoc for several years I recently joined the 💙 NHS 💙 as a trainee clinical scientist where I get to use my bioinformatics skills to help people 🤒.
 
-<!--
-**ASendellPrice/ASendellPrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning python and C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning 🐍 and 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+- 👯 I’m looking to collaborate on interesting projects in zoology / plant sciences
+- 💬 Ask me about evolution of island birds
+- 📫 How to reach me: @AshSendellPrice (X)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
