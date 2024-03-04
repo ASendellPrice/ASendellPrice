@@ -4,7 +4,7 @@ I'm Ash, I have a DPhil (PhD from Oxford) in evolutionary biology / population g
 
 - 🔭 I’m currently working on clinical bioinformatics
 - 🌱 I’m currently learning 🐍 and 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-- 👯 I’m looking to collaborate on interesting projects in zoology / plant sciences (as a bioinformatics consultant)
-- 💬 Ask me about evolution of island birds
+- 👯 I’m looking to collaborate on interesting projects (as a bioinformatics consultant)
+- 💬 Ask me about evolution of island birds 🏝️
 - 📫 How to reach me: @AshSendellPrice (X) 
 - 😄 Pronouns: He/Him
